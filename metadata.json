@@ -1,0 +1,9 @@
+
+{
+  "name": "Aether: Real-time Serverless Intelligence",
+  "description": "A sophisticated full-stack-style dashboard demonstrating Gemini neural integration, real-time data streaming, and serverless architectural patterns using React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
